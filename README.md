@@ -1,1 +1,1 @@
-# shruti.github.io
+### Basic Resort Website Using HTML, CSS
